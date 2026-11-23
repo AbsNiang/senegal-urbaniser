@@ -1,0 +1,9 @@
+Metric,Baseline,AuxMAE
+MAE,0.026981,0.022198
+RMSE,0.051016,0.046004
+R2,0.6615,0.7247
+Pearson r,0.8142,0.8519
+Bias,0.001352,-0.000132
+Growth Precision,0.6934,0.7261
+Growth Recall,0.6162,0.6591
+Growth F1,0.6526,0.6910

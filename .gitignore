@@ -1,0 +1,24 @@
+__pycache__
+sen-venv
+.env
+data/
+Qgis Projects/
+*.pth
+*.pt
+*.keras
+patches_npz/
+patches_npz_32/
+*.png
+!results/figures/*.png
+cache/
+*.joblib
+prev/
+# notebook / editor artefacts
+.ipynb_checkpoints/
+# training logs, profiler traces, archives
+*.npy
+*.npz
+trace.json
+*.zip
+*.aux.xml
+*.tif

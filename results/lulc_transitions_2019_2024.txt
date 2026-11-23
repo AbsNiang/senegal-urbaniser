@@ -1,0 +1,16 @@
+Making masks.
+Counting transitions.
+Urban -> Non-urban:        1567817
+Urban -> Urban:           24189814
+Non-urban -> Urban:        8683961
+Non-urban -> Non-urban: 2051805132
+
+Urban growth (km squared): 868.3961
+Urban loss (km squared): 156.7817
+
+---------------
+Calculations im doing myself to check it against senegal's area:
+ - total pixels = 2086246724
+ - Senegal area = 196,722 km^2
+ - each pixel is 10*10m, so that is * 100 so 208624672400m squared = 208624.6724 km^2, but it also includes the water from rivers and lakes
+   and the sea so this is entirely plausible, so we can say with reasonable certainty that this is correct. 

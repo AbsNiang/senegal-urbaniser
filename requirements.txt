@@ -1,0 +1,29 @@
+# Data and geospatial
+numpy
+pandas
+scipy
+rasterio
+geopandas
+osmnx
+opencv-python
+h5py
+
+# Modelling
+torch
+timm
+einops
+tensorflow
+keras
+scikit-learn
+optuna
+
+# Plotting and utilities
+matplotlib
+seaborn
+tqdm
+joblib
+psutil
+
+# Copernicus Data Space API
+oauthlib
+requests-oauthlib
